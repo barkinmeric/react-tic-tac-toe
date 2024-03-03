@@ -1,4 +1,4 @@
 # React-TicTacToe
 
 Check the deployed version:
-https://react-vite-tic-tac-toe.vercel.app
+https://ttt.barkinmeric.com
